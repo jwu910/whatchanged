@@ -1,0 +1,27 @@
+{
+  "name": "whatchanged",
+  "version": "0.0.1",
+  "description": ":construction:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is not a test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwu910/whatchanged.git"
+  },
+  "keywords": [
+    "git",
+    "diff",
+    "list",
+    "modified",
+    "changed",
+    "cli"
+  ],
+  "author": "Joshua Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwu910/whatchanged/issues"
+  },
+  "homepage": "https://github.com/jwu910/whatchanged#readme"
+}
